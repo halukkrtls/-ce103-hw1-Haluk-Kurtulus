@@ -1,0 +1,523 @@
+-COMPUTER NAME:
+
+DESKTOP-8LUVVL1
+
+---------------------------------
+
+---------------------------------
+
+-COMPUTER USER NAME:
+
+ USERNAME              SESSIONNAME        ID  STATE   IDLE TIME  LOGON TIME
+>haluk                 console             4  Active         10  11.10.2022 18:52
+
+---------------------------------
+
+---------------------------------
+
+-CURRENT WORKING DIRECTORY:
+
+C:\Users\haluk\OneDrive\MasaÅstÅ\hw103-haluk-kurtulus\.bat
+
+---------------------------------
+
+---------------------------------
+
+-CURRENT RUNNING SERVICES and APPLICATIONS:
+
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0      5.304 K
+Secure System                   88 Services                   0     40.536 K
+Registry                       156 Services                   0     66.500 K
+smss.exe                       556 Services                   0      1.072 K
+csrss.exe                      812 Services                   0      5.216 K
+wininit.exe                    984 Services                   0      6.552 K
+services.exe                   648 Services                   0      9.808 K
+LsaIso.exe                     856 Services                   0      3.316 K
+lsass.exe                      864 Services                   0     22.896 K
+svchost.exe                   1116 Services                   0     30.244 K
+fontdrvhost.exe               1144 Services                   0      2.704 K
+svchost.exe                   1236 Services                   0     17.668 K
+svchost.exe                   1292 Services                   0      8.376 K
+svchost.exe                   1508 Services                   0      5.000 K
+svchost.exe                   1528 Services                   0     11.588 K
+svchost.exe                   1536 Services                   0      6.924 K
+svchost.exe                   1544 Services                   0     10.296 K
+svchost.exe                   1652 Services                   0      5.820 K
+svchost.exe                   1732 Services                   0     14.176 K
+svchost.exe                   1756 Services                   0      9.848 K
+svchost.exe                   1764 Services                   0     12.964 K
+svchost.exe                   1784 Services                   0     10.920 K
+IntelCpHDCPSvc.exe            1932 Services                   0      6.396 K
+svchost.exe                   1940 Services                   0     10.548 K
+svchost.exe                   1952 Services                   0      8.420 K
+svchost.exe                   2044 Services                   0     19.596 K
+IntelCpHeciSvc.exe            2060 Services                   0      6.448 K
+svchost.exe                   2220 Services                   0      6.560 K
+svchost.exe                   2228 Services                   0     10.308 K
+svchost.exe                   2344 Services                   0      6.732 K
+svchost.exe                   2364 Services                   0      7.284 K
+dasHost.exe                   2492 Services                   0      4.360 K
+svchost.exe                   2528 Services                   0     12.436 K
+NVDisplay.Container.exe       2548 Services                   0     17.944 K
+svchost.exe                   2584 Services                   0     10.008 K
+svchost.exe                   2608 Services                   0      9.992 K
+svchost.exe                   2700 Services                   0     12.996 K
+svchost.exe                   2708 Services                   0      5.300 K
+svchost.exe                   2716 Services                   0     10.068 K
+svchost.exe                   2724 Services                   0      7.336 K
+svchost.exe                   2780 Services                   0     21.584 K
+Memory Compression            2864 Services                   0     55.696 K
+svchost.exe                   2924 Services                   0      8.024 K
+igfxCUIService.exe            2988 Services                   0      8.420 K
+svchost.exe                   3032 Services                   0      6.976 K
+svchost.exe                   3040 Services                   0      7.568 K
+svchost.exe                   3048 Services                   0      7.060 K
+svchost.exe                   2800 Services                   0     11.392 K
+svchost.exe                   3136 Services                   0      8.820 K
+svchost.exe                   3200 Services                   0      6.360 K
+svchost.exe                   3252 Services                   0     18.052 K
+svchost.exe                   3364 Services                   0      6.708 K
+svchost.exe                   3440 Services                   0     19.364 K
+svchost.exe                   3540 Services                   0     13.464 K
+WmiPrvSE.exe                  3612 Services                   0      9.136 K
+svchost.exe                   3728 Services                   0      6.976 K
+svchost.exe                   3748 Services                   0      6.132 K
+svchost.exe                   3756 Services                   0      9.104 K
+svchost.exe                   3928 Services                   0     18.436 K
+svchost.exe                   4052 Services                   0     13.112 K
+spoolsv.exe                   2520 Services                   0     11.576 K
+svchost.exe                   4244 Services                   0      7.108 K
+svchost.exe                   4372 Services                   0     12.396 K
+svchost.exe                   4392 Services                   0     25.512 K
+GCUBridge.exe                 4408 Services                   0     25.892 K
+OneApp.IGCC.WinService.ex     4428 Services                   0     27.240 K
+svchost.exe                   4436 Services                   0     41.636 K
+svchost.exe                   4444 Services                   0     10.068 K
+svchost.exe                   4452 Services                   0      5.352 K
+svchost.exe                   4468 Services                   0     20.196 K
+svchost.exe                   4484 Services                   0      5.584 K
+WMIRegistrationService.ex     4492 Services                   0      4.752 K
+MsMpEng.exe                   4508 Services                   0    280.660 K
+MBAMService.exe               4516 Services                   0     55.880 K
+sqlwriter.exe                 4524 Services                   0      6.816 K
+svchost.exe                   4788 Services                   0      7.820 K
+svchost.exe                   4884 Services                   0      4.880 K
+jhi_service.exe               4916 Services                   0      5.084 K
+svchost.exe                   4932 Services                   0     10.172 K
+PresentationFontCache.exe     4368 Services                   0      6.676 K
+svchost.exe                   6212 Services                   0     21.600 K
+svchost.exe                   6324 Services                   0      7.376 K
+svchost.exe                   6880 Services                   0     19.552 K
+svchost.exe                   7084 Services                   0      7.760 K
+svchost.exe                   6996 Services                   0      9.044 K
+SearchIndexer.exe             7464 Services                   0     54.620 K
+GoogleCrashHandler.exe        9840 Services                   0      1.804 K
+GoogleCrashHandler64.exe      9848 Services                   0      1.436 K
+NisSrv.exe                   10040 Services                   0     10.716 K
+svchost.exe                  10704 Services                   0     19.108 K
+SecurityHealthService.exe    10132 Services                   0     14.264 K
+svchost.exe                   7492 Services                   0     10.880 K
+audiodg.exe                  12228 Services                   0     23.792 K
+svchost.exe                  13084 Services                   0      9.540 K
+svchost.exe                  10440 Services                   0     10.432 K
+svchost.exe                  13436 Services                   0     15.200 K
+svchost.exe                  14004 Services                   0     20.688 K
+svchost.exe                   2028 Services                   0     15.020 K
+SgrmBroker.exe                3784 Services                   0      8.480 K
+svchost.exe                   4608 Services                   0     11.516 K
+svchost.exe                   1424 Services                   0     12.816 K
+vmcompute.exe                15560 Services                   0     11.588 K
+svchost.exe                   7120 Services                   0      8.072 K
+wlanext.exe                   6456 Services                   0      6.412 K
+conhost.exe                   1604 Services                   0      5.012 K
+svchost.exe                   6000 Services                   0     11.240 K
+MpCopyAccelerator.exe         3128 Services                   0      5.560 K
+svchost.exe                  13032 Services                   0     17.912 K
+svchost.exe                  19344 Services                   0      6.144 K
+svchost.exe                   8660 Services                   0     20.020 K
+svchost.exe                  18704 Services                   0     10.424 K
+csrss.exe                     2808 Console                    4      6.892 K
+winlogon.exe                  8092 Console                    4     11.384 K
+fontdrvhost.exe               1560 Console                    4     11.032 K
+dwm.exe                       8620 Console                    4     99.536 K
+svchost.exe                  14320 Services                   0      7.884 K
+svchost.exe                  16396 Services                   0     11.824 K
+NVDisplay.Container.exe      14372 Console                    4     52.896 K
+svchost.exe                   7368 Services                   0      5.984 K
+mbamtray.exe                 11036 Console                    4     47.208 K
+sihost.exe                   17992 Console                    4     27.372 K
+svchost.exe                  11384 Console                    4      8.788 K
+svchost.exe                   1440 Console                    4     34.908 K
+igfxEM.exe                   18720 Console                    4     14.636 K
+svchost.exe                  17496 Console                    4     38.996 K
+taskhostw.exe                18768 Console                    4     18.428 K
+explorer.exe                 11048 Console                    4    174.308 K
+svchost.exe                  15124 Services                   0     10.248 K
+svchost.exe                   8656 Console                    4     22.800 K
+GCUService.exe               11628 Console                    4     70.348 K
+ctfmon.exe                    8396 Console                    4     21.220 K
+StartMenuExperienceHost.e    13928 Console                    4     81.580 K
+RuntimeBroker.exe             1420 Console                    4     24.596 K
+OSDTpDetect.exe              12604 Console                    4     43.552 K
+SearchApp.exe                17860 Console                    4    181.728 K
+RuntimeBroker.exe            15844 Console                    4     29.336 K
+PhoneExperienceHost.exe       8056 Console                    4    146.816 K
+RuntimeBroker.exe             5892 Console                    4     15.708 K
+TextInputHost.exe            17104 Console                    4     55.872 K
+RuntimeBroker.exe            15424 Console                    4     19.584 K
+smartscreen.exe               4116 Console                    4     24.844 K
+SecurityHealthSystray.exe    14116 Console                    4      9.612 K
+RAVCpl64.exe                 15272 Console                    4     15.236 K
+OneDrive.exe                 12268 Console                    4    126.548 K
+steam.exe                     1388 Console                    4     83.748 K
+steamwebhelper.exe           12744 Console                    4     89.620 K
+SteamService.exe              2632 Services                   0     11.844 K
+steamwebhelper.exe            5016 Console                    4     15.200 K
+steamwebhelper.exe            8664 Console                    4     69.532 K
+steamwebhelper.exe           15452 Console                    4     25.892 K
+Discord.exe                  14224 Console                    4     77.052 K
+EpicGamesLauncher.exe         5532 Console                    4    131.880 K
+Snap Camera.exe               4320 Console                    4    193.444 K
+Discord.exe                   8644 Console                    4     25.024 K
+Discord.exe                   7220 Console                    4     85.568 K
+Discord.exe                  18680 Console                    4     39.244 K
+msedge.exe                    7720 Console                    4    118.604 K
+msedge.exe                    1092 Console                    4      7.536 K
+EpicWebHelper.exe             7376 Console                    4     46.380 K
+msedge.exe                    9388 Console                    4     40.776 K
+msedge.exe                    6400 Console                    4     35.744 K
+msedge.exe                    1676 Console                    4     21.608 K
+Discord.exe                  16524 Console                    4    215.584 K
+IGCCTray.exe                 13292 Console                    4     80.064 K
+IGCC.exe                     15128 Console                    4     70.072 K
+EpicWebHelper.exe            17064 Console                    4     31.800 K
+Discord.exe                  17600 Console                    4     58.924 K
+svchost.exe                   9916 Services                   0     14.196 K
+Cortana.exe                   3700 Console                    4     84.804 K
+RuntimeBroker.exe            12904 Console                    4     24.624 K
+Skype.exe                    12472 Console                    4     80.428 K
+svchost.exe                  10916 Services                   0     16.540 K
+svchost.exe                  17388 Console                    4     21.152 K
+Skype.exe                     7628 Console                    4     26.656 K
+Skype.exe                    14520 Console                    4     62.052 K
+Skype.exe                     9752 Console                    4     37.712 K
+Skype.exe                    19024 Console                    4    103.500 K
+Spotify.exe                   8888 Console                    4    114.600 K
+ShellExperienceHost.exe      15540 Console                    4     61.088 K
+Rainmeter.exe                 5376 Console                    4     71.464 K
+RuntimeBroker.exe            13896 Console                    4     21.412 K
+Spotify.exe                  14472 Console                    4     19.076 K
+Spotify.exe                  12976 Console                    4     41.424 K
+Spotify.exe                  14616 Console                    4     24.340 K
+Spotify.exe                  19192 Console                    4     36.140 K
+backgroundTaskHost.exe        5452 Console                    4     12.740 K
+RuntimeBroker.exe            12548 Console                    4      7.368 K
+Spotify.exe                   9780 Console                    4    132.196 K
+FileCoAuth.exe               17168 Console                    4     20.380 K
+msedge.exe                   11240 Console                    4    131.760 K
+msedge.exe                    5004 Console                    4     33.292 K
+steamwebhelper.exe            7848 Console                    4     45.652 K
+steamwebhelper.exe            7748 Console                    4    111.296 K
+steamwebhelper.exe            5672 Console                    4     74.748 K
+RuntimeBroker.exe            13680 Console                    4     22.520 K
+svchost.exe                   6976 Console                    4     21.852 K
+SearchApp.exe                18360 Console                    4    173.080 K
+dllhost.exe                  18900 Console                    4     13.032 K
+dllhost.exe                   2208 Console                    4     11.056 K
+cmd.exe                      19200 Console                    4      5.064 K
+conhost.exe                   5940 Console                    4     16.852 K
+tasklist.exe                 13012 Console                    4      9.152 K
+more.com                     17616 Console                    4      3.192 K
+WmiPrvSE.exe                  3508 Services                   0      9.836 K
+
+---------------------------------
+
+---------------------------------
+
+-IP and NETWORK ADAPTERS:
+
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DESKTOP-8LUVVL1
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : B0-25-AA-3A-7A-1D
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter vEthernet (WSL):
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
+   Physical Address. . . . . . . . . : 00-15-5D-48-DC-80
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::312f:78ce:9680:1fb5%39(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 172.25.240.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 654316893
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-29-98-80-5A-B0-25-AA-3A-7A-1D
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Yerel Aß Baßlantçsç* 13:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #5
+   Physical Address. . . . . . . . . : C8-58-C0-FD-32-03
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Yerel Aß Baßlantçsç* 14:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #6
+   Physical Address. . . . . . . . . : CA-58-C0-FD-32-02
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6 AX201 160MHz
+   Physical Address. . . . . . . . . : C8-58-C0-FD-32-02
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::dc74:8586:728:7982%19(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.58.163(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Lease Obtained. . . . . . . . . . : 11 Ekim 2022 Salç 15:24:02
+   Lease Expires . . . . . . . . . . : 11 Ekim 2022 Salç 22:52:43
+   Default Gateway . . . . . . . . . : 192.168.48.1
+   DHCP Server . . . . . . . . . . . : 172.16.1.2
+   DHCPv6 IAID . . . . . . . . . . . : 348674240
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-29-98-80-5A-B0-25-AA-3A-7A-1D
+   DNS Servers . . . . . . . . . . . : 172.16.1.2
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Aß Baßlantçsç:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : C8-58-C0-FD-32-06
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+---------------------------------
+
+---------------------------------
+
+Available Physical Memory: 10.735 MB
+
+---------------------------------
+
+---------------------------------
+
+-AVAILABLE HARD DISK SPACE:
+
+ Volume in drive C has no label.
+ Volume Serial Number is 10BD-A43A
+
+ Directory of C:\Users\haluk\OneDrive\MasaÅstÅ\hw103-haluk-kurtulus
+
+11.10.2022  18:41    <DIR>          .
+11.10.2022  18:41    <DIR>          ..
+11.10.2022  18:57    <DIR>          .bat
+11.10.2022  18:35    <DIR>          .sh
+               0 File(s)              0 bytes
+               4 Dir(s)  264.075.825.152 bytes free
+
+---------------------------------
+
+---------------------------------
+
+-OPENED PORTS:
+
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:13688          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:27036          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49670          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:57621          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:58594          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:61461          0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:6463         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:27060        0.0.0.0:0              LISTENING
+  TCP    172.25.240.1:139       0.0.0.0:0              LISTENING
+  TCP    192.168.58.163:139     0.0.0.0:0              LISTENING
+  TCP    192.168.58.163:50919   162.159.138.232:443    TIME_WAIT
+  TCP    192.168.58.163:52131   162.159.135.233:443    ESTABLISHED
+  TCP    192.168.58.163:52133   142.250.200.243:443    TIME_WAIT
+  TCP    192.168.58.163:52136   146.66.155.38:27028    ESTABLISHED
+  TCP    192.168.58.163:52148   204.79.197.203:443     CLOSE_WAIT
+  TCP    192.168.58.163:52152   20.234.93.27:443       CLOSE_WAIT
+  TCP    192.168.58.163:52154   204.79.197.200:443     CLOSE_WAIT
+  TCP    192.168.58.163:52158   204.79.197.203:443     CLOSE_WAIT
+  TCP    192.168.58.163:52165   40.79.197.35:443       CLOSE_WAIT
+  TCP    192.168.58.163:52367   2.23.51.26:443         ESTABLISHED
+  TCP    192.168.58.163:52372   20.189.173.10:443      ESTABLISHED
+  TCP    192.168.58.163:52373   104.208.16.90:443      CLOSE_WAIT
+  TCP    192.168.58.163:52389   13.107.21.239:443      ESTABLISHED
+  TCP    192.168.58.163:52392   52.202.218.138:443     CLOSE_WAIT
+  TCP    192.168.58.163:52393   142.250.200.227:443    ESTABLISHED
+  TCP    192.168.58.163:52401   20.54.232.160:443      TIME_WAIT
+  TCP    192.168.58.163:52405   104.104.52.64:443      TIME_WAIT
+  TCP    192.168.58.163:52409   52.173.152.64:443      TIME_WAIT
+  TCP    192.168.58.163:52426   2.19.192.41:443        ESTABLISHED
+  TCP    192.168.58.163:52808   162.159.130.234:443    ESTABLISHED
+  TCP    192.168.58.163:52815   130.211.41.142:443     TIME_WAIT
+  TCP    192.168.58.163:52816   130.211.41.142:443     TIME_WAIT
+  TCP    192.168.58.163:52817   130.211.41.142:443     TIME_WAIT
+  TCP    192.168.58.163:52818   130.211.41.142:443     TIME_WAIT
+  TCP    192.168.58.163:52819   130.211.41.142:443     TIME_WAIT
+  TCP    192.168.58.163:52820   130.211.41.142:443     TIME_WAIT
+  TCP    192.168.58.163:52824   35.168.255.17:443      ESTABLISHED
+  TCP    192.168.58.163:56904   20.54.36.229:443       ESTABLISHED
+  TCP    192.168.58.163:58349   162.159.135.232:443    ESTABLISHED
+  TCP    192.168.58.163:58610   20.54.36.229:443       ESTABLISHED
+  TCP    192.168.58.163:58617   13.107.22.200:443      CLOSE_WAIT
+  TCP    192.168.58.163:58622   52.123.128.254:443     CLOSE_WAIT
+  TCP    192.168.58.163:58624   52.113.196.254:443     CLOSE_WAIT
+  TCP    192.168.58.163:58626   204.79.197.254:443     CLOSE_WAIT
+  TCP    192.168.58.163:58627   52.97.212.66:443       CLOSE_WAIT
+  TCP    192.168.58.163:58628   13.107.42.254:443      CLOSE_WAIT
+  TCP    192.168.58.163:58897   162.159.129.235:443    ESTABLISHED
+  TCP    192.168.58.163:58898   209.85.233.156:443     ESTABLISHED
+  TCP    192.168.58.163:58899   199.232.150.249:443    ESTABLISHED
+  TCP    192.168.58.163:58900   199.232.150.249:443    ESTABLISHED
+  TCP    192.168.58.163:58901   199.232.150.249:443    ESTABLISHED
+  TCP    192.168.58.163:58902   173.194.73.132:443     ESTABLISHED
+  TCP    192.168.58.163:58903   142.251.37.162:443     ESTABLISHED
+  TCP    192.168.58.163:58905   173.194.73.132:443     ESTABLISHED
+  TCP    192.168.58.163:58907   108.177.14.132:443     ESTABLISHED
+  TCP    192.168.58.163:58908   74.125.131.104:443     ESTABLISHED
+  TCP    192.168.58.163:58909   142.251.1.97:443       ESTABLISHED
+  TCP    192.168.58.163:58910   142.251.37.162:443     ESTABLISHED
+  TCP    192.168.58.163:58912   216.239.36.178:443     ESTABLISHED
+  TCP    192.168.58.163:59189   40.99.151.194:443      CLOSE_WAIT
+  TCP    192.168.58.163:59190   52.97.151.130:443      ESTABLISHED
+  TCP    192.168.58.163:60544   162.159.138.232:443    ESTABLISHED
+  TCP    192.168.58.163:60662   35.186.224.25:443      ESTABLISHED
+  TCP    192.168.58.163:61447   35.186.224.47:443      ESTABLISHED
+  TCP    192.168.58.163:61450   34.195.21.33:443       ESTABLISHED
+  TCP    192.168.58.163:61452   52.85.5.19:443         ESTABLISHED
+  TCP    192.168.58.163:61453   34.199.0.154:443       CLOSE_WAIT
+  TCP    192.168.58.163:61454   34.199.0.154:443       CLOSE_WAIT
+  TCP    192.168.58.163:61455   34.199.0.154:443       CLOSE_WAIT
+  TCP    192.168.58.163:61458   34.98.74.57:443        ESTABLISHED
+  TCP    192.168.58.163:61459   52.206.186.139:443     CLOSE_WAIT
+  TCP    192.168.58.163:61462   35.171.115.100:443     CLOSE_WAIT
+  TCP    192.168.58.163:61465   35.186.224.25:443      ESTABLISHED
+  TCP    192.168.58.163:61466   34.158.0.131:4070      ESTABLISHED
+  TCP    192.168.58.163:61468   35.186.224.25:443      ESTABLISHED
+  TCP    192.168.58.163:61469   35.186.224.25:443      ESTABLISHED
+  TCP    192.168.58.163:61470   35.186.224.47:443      ESTABLISHED
+  TCP    192.168.58.163:61473   35.186.224.17:443      ESTABLISHED
+  TCP    192.168.58.163:61475   35.186.224.41:443      ESTABLISHED
+  TCP    192.168.58.163:61477   35.186.224.25:443      ESTABLISHED
+  TCP    192.168.58.163:61478   142.251.1.156:443      ESTABLISHED
+  TCP    192.168.58.163:61479   52.6.122.174:443       CLOSE_WAIT
+  TCP    192.168.58.163:61481   209.85.233.156:443     ESTABLISHED
+  TCP    192.168.58.163:61482   172.217.171.194:443    ESTABLISHED
+  TCP    192.168.58.163:61483   74.125.131.155:443     ESTABLISHED
+  TCP    [::]:135               [::]:0                 LISTENING
+  TCP    [::]:445               [::]:0                 LISTENING
+  TCP    [::]:13688             [::]:0                 LISTENING
+  TCP    [::]:49664             [::]:0                 LISTENING
+  TCP    [::]:49665             [::]:0                 LISTENING
+  TCP    [::]:49666             [::]:0                 LISTENING
+  TCP    [::]:49667             [::]:0                 LISTENING
+  TCP    [::]:49668             [::]:0                 LISTENING
+  TCP    [::]:49670             [::]:0                 LISTENING
+  TCP    [::]:58594             [::]:0                 LISTENING
+  TCP    [::1]:13688            [::1]:58613            ESTABLISHED
+  TCP    [::1]:13688            [::1]:58615            ESTABLISHED
+  TCP    [::1]:49669            [::]:0                 LISTENING
+  TCP    [::1]:58613            [::1]:13688            ESTABLISHED
+  TCP    [::1]:58615            [::1]:13688            ESTABLISHED
+  UDP    0.0.0.0:53             *:*                    
+  UDP    0.0.0.0:1900           *:*                    
+  UDP    0.0.0.0:1900           *:*                    
+  UDP    0.0.0.0:5050           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:27036          *:*                    
+  UDP    0.0.0.0:57621          *:*                    
+  UDP    0.0.0.0:62922          *:*                    
+  UDP    0.0.0.0:62923          *:*                    
+  UDP    0.0.0.0:64069          *:*                    
+  UDP    0.0.0.0:64070          *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:49666        *:*                    
+  UDP    127.0.0.1:62562        *:*                    
+  UDP    172.25.240.1:137       *:*                    
+  UDP    172.25.240.1:138       *:*                    
+  UDP    172.25.240.1:1900      *:*                    
+  UDP    172.25.240.1:62560     *:*                    
+  UDP    192.168.58.163:137     *:*                    
+  UDP    192.168.58.163:138     *:*                    
+  UDP    192.168.58.163:1900    *:*                    
+  UDP    192.168.58.163:62561   *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::]:64071             *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:62559            *:*                    
+  UDP    [fe80::312f:78ce:9680:1fb5%39]:1900  *:*                    
+  UDP    [fe80::312f:78ce:9680:1fb5%39]:62557  *:*                    
+  UDP    [fe80::dc74:8586:728:7982%19]:1900  *:*                    
+  UDP    [fe80::dc74:8586:728:7982%19]:62558  *:*                    
+
+---------------------------------
+
+---------------------------------
+
+-FINISHED
+
+---------------------------------
+
